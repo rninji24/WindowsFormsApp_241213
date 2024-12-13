@@ -27,7 +27,9 @@ namespace WindowsFormsApp_241213
 
         private void textBox_print_TextChanged(object sender, EventArgs e)
         {
+            int a = 0;
 
+            a = 9999;
         }
     }
 }
